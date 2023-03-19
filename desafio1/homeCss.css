@@ -1,0 +1,21 @@
+.cabeçario{
+    display: flex;
+    justify-content: space-between;
+}
+
+.links > li{
+    display: inline;
+}
+
+.capa{
+    display: flex;
+    justify-content: center;
+    padding-top: 39px;
+}
+
+.texto h2{
+    text-align: center;
+}
+.texto p{
+    text-align: center;
+}

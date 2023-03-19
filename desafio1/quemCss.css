@@ -1,0 +1,12 @@
+.cabeçario{
+    display: flex;
+    justify-content: space-between;
+}
+
+.links > li{
+    display: inline;
+}
+
+.texto2 h2{
+    text-align: center;
+}

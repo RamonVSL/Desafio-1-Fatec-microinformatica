@@ -1,0 +1,18 @@
+.cabeçario{
+    display: flex;
+    justify-content: space-between;
+}
+
+.links > li{
+    display: inline;
+}
+
+.descrição{
+    height: 100px;
+    width: 200px;
+
+}
+
+.email h2{
+    text-align: center;
+}
